@@ -1,4 +1,4 @@
-### Hi there, I'm [Imran!](https://dreamsofimran.in) 👋
+### Hi there, I'm <a href="https://dreamsofimran.in" style="color:#fa314a">Imran!</a> 👋
 
 <!-- <br/> -->
 <a href="https://twitter.com/DreamsOfImran">
@@ -31,4 +31,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
