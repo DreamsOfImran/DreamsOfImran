@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://dreamsofimran.in" style="color: #fa314a!important">Imran!</a> 👋
+### Hi there, I'm <a href="https://dreamsofimran.in"><span style="color: #fa314a!important">Imran!</span></a> 👋
 
 <!-- <br/> -->
 <a href="https://twitter.com/DreamsOfImran">
