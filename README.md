@@ -19,6 +19,7 @@
 
 <br/>
 <br/>
+![me](https://github.com/DreamsOfImran/DreamsOfImran/raw/master/assets/MyProfile.gif)
 <!-- **DreamsOfImran/DreamsOfImran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started:
