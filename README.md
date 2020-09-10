@@ -1,4 +1,4 @@
-![me](https://github.com/DreamsOfImran/DreamsOfImran/raw/master/assets/MyProfile.gif)
+<p align="center">![me](https://github.com/DreamsOfImran/DreamsOfImran/raw/master/assets/MyProfile.gif)</p>
 
 ### Hi there, I'm <a href="https://dreamsofimran.in"><span style="color: #fa314a!important">Imran!</span></a> 👋
 
