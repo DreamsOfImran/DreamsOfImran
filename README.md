@@ -1,3 +1,5 @@
+![me](https://github.com/DreamsOfImran/DreamsOfImran/raw/master/assets/MyProfile.gif)
+
 ### Hi there, I'm <a href="https://dreamsofimran.in"><span style="color: #fa314a!important">Imran!</span></a> 👋
 
 <!-- <br/> -->
@@ -19,7 +21,6 @@
 
 <br/>
 <br/>
-![me](https://github.com/DreamsOfImran/DreamsOfImran/raw/master/assets/MyProfile.gif)
 <!-- **DreamsOfImran/DreamsOfImran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started:
