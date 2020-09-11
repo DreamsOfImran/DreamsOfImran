@@ -11,6 +11,22 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
 
+### Connect with me:
 
+[<img align="left" alt="dreamsofimran.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="DreamsOfImran | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="DreamsOfImran | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Imran Basha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="dreamsofimran | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="DreamsOfImran | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="DreamsOfImran | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev-to]
+
+<br />
 
 [website]: https://dreamsofimran.in
+[medium]: https://medium.com/@DreamsOfImran
+[twitter]: https://twitter.com/DreamsOfImran
+[instagram]: https://instagram.com/dreamsofimran
+[linkedin]: https://linkedin.com/in/imran.basha
+[facebook]: https://facebook.com/DreamsOfImran
+[dev-to]: https://dev.to/dreamsofimran
