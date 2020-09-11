@@ -51,7 +51,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Learn gRPC and Protobuf with GoLang](https://blog.francium.tech/learn-grpc-and-protobuf-with-golang-8456a2e64977?source=rss-73fdbc66123c------2)
 <!-- BLOG-POST-LIST:END -->
 
