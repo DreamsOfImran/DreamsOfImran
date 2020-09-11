@@ -54,6 +54,16 @@
 - [Learn gRPC and Protobuf with GoLang](https://blog.francium.tech/learn-grpc-and-protobuf-with-golang-8456a2e64977?source=rss-73fdbc66123c------2)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
 [website]: https://dreamsofimran.in
 [medium]: https://medium.com/@DreamsOfImran
 [twitter]: https://twitter.com/DreamsOfImran
