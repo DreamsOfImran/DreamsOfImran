@@ -51,6 +51,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Learn gRPC and Protobuf with GoLang](https://blog.francium.tech/learn-grpc-and-protobuf-with-golang-8456a2e64977?source=rss-73fdbc66123c------2)
 <!-- BLOG-POST-LIST:END -->
 
@@ -66,6 +67,13 @@
 4. 🎉 Merged PR [#16](https://github.com//DreamsOfImran/room-booking-demo/pull/16) in [DreamsOfImran/room-booking-demo](https://github.com//DreamsOfImran/room-booking-demo)
 5. 🎉 Merged PR [#17](https://github.com//DreamsOfImran/room-booking-demo/pull/17) in [DreamsOfImran/room-booking-demo](https://github.com//DreamsOfImran/room-booking-demo)
 <!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
 
