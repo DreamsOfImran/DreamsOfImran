@@ -1,35 +1,16 @@
-![DreamsOfImran](https://github.com/DreamsOfImran/DreamsOfImran/raw/master/assets/MyProfile.gif)
+### Hi there, I'm [Imran!][website] 👋
 
-### Hi there, I'm <a href="https://dreamsofimran.in"><span style="color: #fa314a!important">Imran!</span></a> 👋
+[![Website](https://img.shields.io/website?label=DreamsOfImran&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/DreamsOfImran?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDreamsOfImran&screen_name=DreamsOfImran)
 
-<!-- <br/> -->
-<a href="https://twitter.com/DreamsOfImran">
-  <img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/ios/50/fa314a/twitter.png" />
-</a>
-<a href="https://facebook.com/DreamsOfImran">
-  <img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/ios/50/fa314a/facebook.png" />
-</a>
-<a href="https://www.instagram.com/dreamsofimran">
-  <img align="left" alt="Linkedin" width="22px" src="https://img.icons8.com/ios/50/fa314a/instagram-new.png" />
-</a>
-<a href="https://www.linkedin.com/in/imran-basha">
-  <img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/ios/50/fa314a/linkedin.png" />
-</a>
-<a href="https://medium.com/@DreamsOfImran">
-  <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/ios/50/fa314a/medium-monogram.png" />
-</a>
+## FullStack Developer, Geek, Designer, Reader & always a Lifetime Learner!
 
-<br/>
-<br/>
-<!-- **DreamsOfImran/DreamsOfImran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+- 🔭 I’m currently working on a [ReactJs][website]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other intereseting projects
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and play guitar
 
-<!-- Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+
+[website]: https://dreamsofimran.in
