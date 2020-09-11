@@ -60,6 +60,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#18](https://github.com//DreamsOfImran/room-booking-demo/pull/18) in [DreamsOfImran/room-booking-demo](https://github.com//DreamsOfImran/room-booking-demo)
+2. 🎉 Merged PR [#2](https://github.com//DreamsOfImran/dream-library/pull/2) in [DreamsOfImran/dream-library](https://github.com//DreamsOfImran/dream-library)
+3. 🎉 Merged PR [#2](https://github.com//DreamsOfImran/dreamlibrary-backend/pull/2) in [DreamsOfImran/dreamlibrary-backend](https://github.com//DreamsOfImran/dreamlibrary-backend)
+4. 🎉 Merged PR [#16](https://github.com//DreamsOfImran/room-booking-demo/pull/16) in [DreamsOfImran/room-booking-demo](https://github.com//DreamsOfImran/room-booking-demo)
+5. 🎉 Merged PR [#17](https://github.com//DreamsOfImran/room-booking-demo/pull/17) in [DreamsOfImran/room-booking-demo](https://github.com//DreamsOfImran/room-booking-demo)
 <!--END_SECTION:activity-->
 
 </details>
