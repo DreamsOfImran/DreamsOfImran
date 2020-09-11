@@ -12,6 +12,10 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
 
+### Spotify Playing 🎧
+
+[<img src="https://spotify-on-readme.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/mev73qnv9sasgkt8j7gqks1fn)
+
 ### Connect with me:
 
 [<img align="left" alt="dreamsofimran.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -51,6 +55,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Learn gRPC and Protobuf with GoLang](https://blog.francium.tech/learn-grpc-and-protobuf-with-golang-8456a2e64977?source=rss-73fdbc66123c------2)
 <!-- BLOG-POST-LIST:END -->
 
