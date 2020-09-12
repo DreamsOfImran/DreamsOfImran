@@ -64,11 +64,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com//DreamsOfImran/melodic-monk/pull/5) in [DreamsOfImran/melodic-monk](https://github.com//DreamsOfImran/melodic-monk)
-2. 🎉 Merged PR [#3](https://github.com//DreamsOfImran/tic-tac-toe/pull/3) in [DreamsOfImran/tic-tac-toe](https://github.com//DreamsOfImran/tic-tac-toe)
-3. 🎉 Merged PR [#3](https://github.com//DreamsOfImran/kinesis.fit/pull/3) in [DreamsOfImran/kinesis.fit](https://github.com//DreamsOfImran/kinesis.fit)
-4. 🎉 Merged PR [#3](https://github.com//DreamsOfImran/dreamlibrary-frontend/pull/3) in [DreamsOfImran/dreamlibrary-frontend](https://github.com//DreamsOfImran/dreamlibrary-frontend)
-5. 🎉 Merged PR [#3](https://github.com//DreamsOfImran/c19-global/pull/3) in [DreamsOfImran/c19-global](https://github.com//DreamsOfImran/c19-global)
+1. 🎉 Merged PR [#6](https://github.com//DreamsOfImran/melodic-monk/pull/6) in [DreamsOfImran/melodic-monk](https://github.com//DreamsOfImran/melodic-monk)
+2. ❗️ Closed issue [#9](https://github.com//worldofprasanna/profile/issues/9) in [worldofprasanna/profile](https://github.com//worldofprasanna/profile)
+3. 🎉 Merged PR [#5](https://github.com//DreamsOfImran/melodic-monk/pull/5) in [DreamsOfImran/melodic-monk](https://github.com//DreamsOfImran/melodic-monk)
+4. 🎉 Merged PR [#3](https://github.com//DreamsOfImran/tic-tac-toe/pull/3) in [DreamsOfImran/tic-tac-toe](https://github.com//DreamsOfImran/tic-tac-toe)
+5. 🎉 Merged PR [#3](https://github.com//DreamsOfImran/kinesis.fit/pull/3) in [DreamsOfImran/kinesis.fit](https://github.com//DreamsOfImran/kinesis.fit)
 <!--END_SECTION:activity-->
 
 </details>
