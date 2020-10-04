@@ -64,11 +64,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#95](https://github.com/Satriaana/Satriaana-Web-Site/issues/95) in [Satriaana/Satriaana-Web-Site](https://github.com/Satriaana/Satriaana-Web-Site)
-2. 💪 Opened PR [#96](https://github.com/Satriaana/Satriaana-Web-Site/pull/96) in [Satriaana/Satriaana-Web-Site](https://github.com/Satriaana/Satriaana-Web-Site)
-3. 🗣 Commented on [#7](https://github.com/ScorchingShade/Codera/issues/7) in [ScorchingShade/Codera](https://github.com/ScorchingShade/Codera)
-4. 🗣 Commented on [#1](https://github.com/ScorchingShade/Codera/issues/1) in [ScorchingShade/Codera](https://github.com/ScorchingShade/Codera)
-5. 💪 Opened PR [#7](https://github.com/ScorchingShade/Codera/pull/7) in [ScorchingShade/Codera](https://github.com/ScorchingShade/Codera)
+1. 🗣 Commented on [#228](https://github.com/rahuldkjain/github-profile-readme-generator/issues/228) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+2. 🗣 Commented on [#6](https://github.com/sushrut111/react-grpc-web/issues/6) in [sushrut111/react-grpc-web](https://github.com/sushrut111/react-grpc-web)
+3. 🗣 Commented on [#12](https://github.com/ACM-VIT/dolos/issues/12) in [ACM-VIT/dolos](https://github.com/ACM-VIT/dolos)
+4. 💪 Opened PR [#21](https://github.com/ACM-VIT/dolos/pull/21) in [ACM-VIT/dolos](https://github.com/ACM-VIT/dolos)
+5. 🗣 Commented on [#95](https://github.com/Satriaana/Satriaana-Web-Site/issues/95) in [Satriaana/Satriaana-Web-Site](https://github.com/Satriaana/Satriaana-Web-Site)
 <!--END_SECTION:activity-->
 
 </details>
