@@ -64,11 +64,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/sushrut111/react-grpc-web/issues/7) in [sushrut111/react-grpc-web](https://github.com/sushrut111/react-grpc-web)
+1. 🗣 Commented on [#7](https://github.com/yesmayank/AdBlocker/issues/7) in [yesmayank/AdBlocker](https://github.com/yesmayank/AdBlocker)
 2. 🗣 Commented on [#7](https://github.com/sushrut111/react-grpc-web/issues/7) in [sushrut111/react-grpc-web](https://github.com/sushrut111/react-grpc-web)
-3. 🗣 Commented on [#6](https://github.com/sushrut111/react-grpc-web/issues/6) in [sushrut111/react-grpc-web](https://github.com/sushrut111/react-grpc-web)
-4. 🗣 Commented on [#6](https://github.com/sushrut111/react-grpc-web/issues/6) in [sushrut111/react-grpc-web](https://github.com/sushrut111/react-grpc-web)
-5. 💪 Opened PR [#7](https://github.com/sushrut111/react-grpc-web/pull/7) in [sushrut111/react-grpc-web](https://github.com/sushrut111/react-grpc-web)
+3. 🗣 Commented on [#7](https://github.com/sushrut111/react-grpc-web/issues/7) in [sushrut111/react-grpc-web](https://github.com/sushrut111/react-grpc-web)
+4. 🗣 Commented on [#7](https://github.com/sushrut111/react-grpc-web/issues/7) in [sushrut111/react-grpc-web](https://github.com/sushrut111/react-grpc-web)
+5. 🗣 Commented on [#6](https://github.com/sushrut111/react-grpc-web/issues/6) in [sushrut111/react-grpc-web](https://github.com/sushrut111/react-grpc-web)
 <!--END_SECTION:activity-->
 
 </details>
