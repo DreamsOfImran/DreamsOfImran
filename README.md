@@ -64,11 +64,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/dhruvsaxena1998/un-named/issues/21) in [dhruvsaxena1998/un-named](https://github.com/dhruvsaxena1998/un-named)
-2. 💪 Opened PR [#25](https://github.com/dhruvsaxena1998/un-named/pull/25) in [dhruvsaxena1998/un-named](https://github.com/dhruvsaxena1998/un-named)
-3. 💪 Opened PR [#2](https://github.com/Erick-INCS/wb_built-in_generator/pull/2) in [Erick-INCS/wb_built-in_generator](https://github.com/Erick-INCS/wb_built-in_generator)
-4. 🗣 Commented on [#2](https://github.com/ScorchingShade/Codera/issues/2) in [ScorchingShade/Codera](https://github.com/ScorchingShade/Codera)
-5. ❗️ Opened issue [#2](https://github.com/ScorchingShade/Codera/issues/2) in [ScorchingShade/Codera](https://github.com/ScorchingShade/Codera)
+1. 🗣 Commented on [#7](https://github.com/shaansubbaiah/Portfolio/issues/7) in [shaansubbaiah/Portfolio](https://github.com/shaansubbaiah/Portfolio)
+2. 🗣 Commented on [#22](https://github.com/RyanRussell00/personal-dj/issues/22) in [RyanRussell00/personal-dj](https://github.com/RyanRussell00/personal-dj)
+3. ❗️ Opened issue [#2](https://github.com/DreamsOfImran/TimesOfInternet/issues/2) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
+4. ❗️ Opened issue [#1](https://github.com/DreamsOfImran/TimesOfInternet/issues/1) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
+5. 🗣 Commented on [#7](https://github.com/yesmayank/AdBlocker/issues/7) in [yesmayank/AdBlocker](https://github.com/yesmayank/AdBlocker)
 <!--END_SECTION:activity-->
 
 </details>
