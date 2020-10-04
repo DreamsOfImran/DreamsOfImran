@@ -64,11 +64,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/DreamsOfImran/vue-insta-carousel-3d/pull/4) in [DreamsOfImran/vue-insta-carousel-3d](https://github.com/DreamsOfImran/vue-insta-carousel-3d)
-2. 🎉 Merged PR [#6](https://github.com/DreamsOfImran/melodic-monk/pull/6) in [DreamsOfImran/melodic-monk](https://github.com/DreamsOfImran/melodic-monk)
-3. ❗️ Closed issue [#9](https://github.com/worldofprasanna/profile/issues/9) in [worldofprasanna/profile](https://github.com/worldofprasanna/profile)
-4. 🎉 Merged PR [#5](https://github.com/DreamsOfImran/melodic-monk/pull/5) in [DreamsOfImran/melodic-monk](https://github.com/DreamsOfImran/melodic-monk)
-5. 🎉 Merged PR [#3](https://github.com/DreamsOfImran/tic-tac-toe/pull/3) in [DreamsOfImran/tic-tac-toe](https://github.com/DreamsOfImran/tic-tac-toe)
+1. 🗣 Commented on [#2](https://github.com/ScorchingShade/Codera/issues/2) in [ScorchingShade/Codera](https://github.com/ScorchingShade/Codera)
+2. ❗️ Opened issue [#2](https://github.com/ScorchingShade/Codera/issues/2) in [ScorchingShade/Codera](https://github.com/ScorchingShade/Codera)
+3. 🎉 Merged PR [#4](https://github.com/DreamsOfImran/vue-insta-carousel-3d/pull/4) in [DreamsOfImran/vue-insta-carousel-3d](https://github.com/DreamsOfImran/vue-insta-carousel-3d)
+4. 🎉 Merged PR [#6](https://github.com/DreamsOfImran/melodic-monk/pull/6) in [DreamsOfImran/melodic-monk](https://github.com/DreamsOfImran/melodic-monk)
+5. ❗️ Closed issue [#9](https://github.com/worldofprasanna/profile/issues/9) in [worldofprasanna/profile](https://github.com/worldofprasanna/profile)
 <!--END_SECTION:activity-->
 
 </details>
