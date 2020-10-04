@@ -64,11 +64,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ScorchingShade/Codera/issues/1) in [ScorchingShade/Codera](https://github.com/ScorchingShade/Codera)
-2. 💪 Opened PR [#7](https://github.com/ScorchingShade/Codera/pull/7) in [ScorchingShade/Codera](https://github.com/ScorchingShade/Codera)
-3. 🗣 Commented on [#5](https://github.com/ScorchingShade/Codera/issues/5) in [ScorchingShade/Codera](https://github.com/ScorchingShade/Codera)
-4. ❗️ Closed issue [#2](https://github.com/ScorchingShade/Codera/issues/2) in [ScorchingShade/Codera](https://github.com/ScorchingShade/Codera)
-5. 🗣 Commented on [#95](https://github.com/Satriaana/Satriaana-Web-Site/issues/95) in [Satriaana/Satriaana-Web-Site](https://github.com/Satriaana/Satriaana-Web-Site)
+1. 🗣 Commented on [#95](https://github.com/Satriaana/Satriaana-Web-Site/issues/95) in [Satriaana/Satriaana-Web-Site](https://github.com/Satriaana/Satriaana-Web-Site)
+2. 💪 Opened PR [#96](https://github.com/Satriaana/Satriaana-Web-Site/pull/96) in [Satriaana/Satriaana-Web-Site](https://github.com/Satriaana/Satriaana-Web-Site)
+3. 🗣 Commented on [#7](https://github.com/ScorchingShade/Codera/issues/7) in [ScorchingShade/Codera](https://github.com/ScorchingShade/Codera)
+4. 🗣 Commented on [#1](https://github.com/ScorchingShade/Codera/issues/1) in [ScorchingShade/Codera](https://github.com/ScorchingShade/Codera)
+5. 💪 Opened PR [#7](https://github.com/ScorchingShade/Codera/pull/7) in [ScorchingShade/Codera](https://github.com/ScorchingShade/Codera)
 <!--END_SECTION:activity-->
 
 </details>
