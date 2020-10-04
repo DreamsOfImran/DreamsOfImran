@@ -64,11 +64,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/shaansubbaiah/Portfolio/issues/7) in [shaansubbaiah/Portfolio](https://github.com/shaansubbaiah/Portfolio)
-2. 🗣 Commented on [#22](https://github.com/RyanRussell00/personal-dj/issues/22) in [RyanRussell00/personal-dj](https://github.com/RyanRussell00/personal-dj)
-3. ❗️ Opened issue [#2](https://github.com/DreamsOfImran/TimesOfInternet/issues/2) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
-4. ❗️ Opened issue [#1](https://github.com/DreamsOfImran/TimesOfInternet/issues/1) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
-5. 🗣 Commented on [#7](https://github.com/yesmayank/AdBlocker/issues/7) in [yesmayank/AdBlocker](https://github.com/yesmayank/AdBlocker)
+1. 🗣 Commented on [#5](https://github.com/ScorchingShade/Codera/issues/5) in [ScorchingShade/Codera](https://github.com/ScorchingShade/Codera)
+2. ❗️ Closed issue [#2](https://github.com/ScorchingShade/Codera/issues/2) in [ScorchingShade/Codera](https://github.com/ScorchingShade/Codera)
+3. 🗣 Commented on [#95](https://github.com/Satriaana/Satriaana-Web-Site/issues/95) in [Satriaana/Satriaana-Web-Site](https://github.com/Satriaana/Satriaana-Web-Site)
+4. 🗣 Commented on [#95](https://github.com/Satriaana/Satriaana-Web-Site/issues/95) in [Satriaana/Satriaana-Web-Site](https://github.com/Satriaana/Satriaana-Web-Site)
+5. 🗣 Commented on [#2](https://github.com/jagrit2019/Black_berry_game/issues/2) in [jagrit2019/Black_berry_game](https://github.com/jagrit2019/Black_berry_game)
 <!--END_SECTION:activity-->
 
 </details>
