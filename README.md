@@ -64,9 +64,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Erick-INCS/wb_built-in_generator/issues/2) in [Erick-INCS/wb_built-in_generator](https://github.com/Erick-INCS/wb_built-in_generator)
-2. 🗣 Commented on [#7](https://github.com/yesmayank/AdBlocker/issues/7) in [yesmayank/AdBlocker](https://github.com/yesmayank/AdBlocker)
-3. 🗣 Commented on [#7](https://github.com/sushrut111/react-grpc-web/issues/7) in [sushrut111/react-grpc-web](https://github.com/sushrut111/react-grpc-web)
+1. 🗣 Commented on [#2](https://github.com/DreamsOfImran/TimesOfInternet/issues/2) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
+2. 🗣 Commented on [#2](https://github.com/Erick-INCS/wb_built-in_generator/issues/2) in [Erick-INCS/wb_built-in_generator](https://github.com/Erick-INCS/wb_built-in_generator)
+3. 🗣 Commented on [#7](https://github.com/yesmayank/AdBlocker/issues/7) in [yesmayank/AdBlocker](https://github.com/yesmayank/AdBlocker)
 4. 🗣 Commented on [#7](https://github.com/sushrut111/react-grpc-web/issues/7) in [sushrut111/react-grpc-web](https://github.com/sushrut111/react-grpc-web)
 5. 🗣 Commented on [#7](https://github.com/sushrut111/react-grpc-web/issues/7) in [sushrut111/react-grpc-web](https://github.com/sushrut111/react-grpc-web)
 <!--END_SECTION:activity-->
