@@ -65,10 +65,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5](https://github.com/DreamsOfImran/TimesOfInternet/issues/5) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
-2. ❗️ Closed issue [#2](https://github.com/DreamsOfImran/TimesOfInternet/issues/2) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
-3. 🗣 Commented on [#2](https://github.com/DreamsOfImran/TimesOfInternet/issues/2) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
-4. 🎉 Merged PR [#4](https://github.com/DreamsOfImran/TimesOfInternet/pull/4) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
-5. 🗣 Commented on [#4](https://github.com/DreamsOfImran/TimesOfInternet/issues/4) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
+2. 🗣 Commented on [#5](https://github.com/DreamsOfImran/TimesOfInternet/issues/5) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
+3. ❗️ Closed issue [#2](https://github.com/DreamsOfImran/TimesOfInternet/issues/2) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
+4. 🗣 Commented on [#2](https://github.com/DreamsOfImran/TimesOfInternet/issues/2) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
+5. 🎉 Merged PR [#4](https://github.com/DreamsOfImran/TimesOfInternet/pull/4) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
 <!--END_SECTION:activity-->
 
 </details>
