@@ -64,11 +64,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/DreamsOfImran/TimesOfInternet/issues/2) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
-2. 🗣 Commented on [#101](https://github.com/Satriaana/Satriaana-Web-Site/issues/101) in [Satriaana/Satriaana-Web-Site](https://github.com/Satriaana/Satriaana-Web-Site)
+1. ❗️ Opened issue [#5](https://github.com/DreamsOfImran/TimesOfInternet/issues/5) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
+2. 🗣 Commented on [#2](https://github.com/DreamsOfImran/TimesOfInternet/issues/2) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
 3. 🗣 Commented on [#101](https://github.com/Satriaana/Satriaana-Web-Site/issues/101) in [Satriaana/Satriaana-Web-Site](https://github.com/Satriaana/Satriaana-Web-Site)
-4. ❗️ Opened issue [#101](https://github.com/Satriaana/Satriaana-Web-Site/issues/101) in [Satriaana/Satriaana-Web-Site](https://github.com/Satriaana/Satriaana-Web-Site)
-5. 💪 Opened PR [#100](https://github.com/Satriaana/Satriaana-Web-Site/pull/100) in [Satriaana/Satriaana-Web-Site](https://github.com/Satriaana/Satriaana-Web-Site)
+4. 🗣 Commented on [#101](https://github.com/Satriaana/Satriaana-Web-Site/issues/101) in [Satriaana/Satriaana-Web-Site](https://github.com/Satriaana/Satriaana-Web-Site)
+5. ❗️ Opened issue [#101](https://github.com/Satriaana/Satriaana-Web-Site/issues/101) in [Satriaana/Satriaana-Web-Site](https://github.com/Satriaana/Satriaana-Web-Site)
 <!--END_SECTION:activity-->
 
 </details>
