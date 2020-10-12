@@ -64,11 +64,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/DreamsOfImran/TimesOfInternet/issues/18) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
-2. ❌ Closed PR [#8](https://github.com/DreamsOfImran/covid-global/pull/8) in [DreamsOfImran/covid-global](https://github.com/DreamsOfImran/covid-global)
-3. ❗️ Opened issue [#7](https://github.com/DreamsOfImran/covid-global/issues/7) in [DreamsOfImran/covid-global](https://github.com/DreamsOfImran/covid-global)
-4. 🗣 Commented on [#5](https://github.com/DreamsOfImran/covid-global/issues/5) in [DreamsOfImran/covid-global](https://github.com/DreamsOfImran/covid-global)
-5. ❗️ Opened issue [#5](https://github.com/DreamsOfImran/c19-global/issues/5) in [DreamsOfImran/c19-global](https://github.com/DreamsOfImran/c19-global)
+1. 🎉 Merged PR [#19](https://github.com/DreamsOfImran/TimesOfInternet/pull/19) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
+2. 💪 Opened PR [#19](https://github.com/DreamsOfImran/TimesOfInternet/pull/19) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
+3. 🎉 Merged PR [#11](https://github.com/DreamsOfImran/covid-global/pull/11) in [DreamsOfImran/covid-global](https://github.com/DreamsOfImran/covid-global)
+4. 🗣 Commented on [#18](https://github.com/DreamsOfImran/TimesOfInternet/issues/18) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
+5. ❌ Closed PR [#8](https://github.com/DreamsOfImran/covid-global/pull/8) in [DreamsOfImran/covid-global](https://github.com/DreamsOfImran/covid-global)
 <!--END_SECTION:activity-->
 
 </details>
