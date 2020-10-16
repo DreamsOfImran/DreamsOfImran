@@ -64,11 +64,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#404](https://github.com/mojombo/chronic/issues/404) in [mojombo/chronic](https://github.com/mojombo/chronic)
-2. 🎉 Merged PR [#19](https://github.com/DreamsOfImran/TimesOfInternet/pull/19) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
-3. 💪 Opened PR [#19](https://github.com/DreamsOfImran/TimesOfInternet/pull/19) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
-4. 🎉 Merged PR [#11](https://github.com/DreamsOfImran/covid-global/pull/11) in [DreamsOfImran/covid-global](https://github.com/DreamsOfImran/covid-global)
-5. 🗣 Commented on [#18](https://github.com/DreamsOfImran/TimesOfInternet/issues/18) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
+1. 🗣 Commented on [#18](https://github.com/DreamsOfImran/TimesOfInternet/issues/18) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
+2. ❗️ Opened issue [#404](https://github.com/mojombo/chronic/issues/404) in [mojombo/chronic](https://github.com/mojombo/chronic)
+3. 🎉 Merged PR [#19](https://github.com/DreamsOfImran/TimesOfInternet/pull/19) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
+4. 💪 Opened PR [#19](https://github.com/DreamsOfImran/TimesOfInternet/pull/19) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
+5. 🎉 Merged PR [#11](https://github.com/DreamsOfImran/covid-global/pull/11) in [DreamsOfImran/covid-global](https://github.com/DreamsOfImran/covid-global)
 <!--END_SECTION:activity-->
 
 </details>
