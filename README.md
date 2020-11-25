@@ -64,11 +64,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/DreamsOfImran/TimesOfInternet/issues/20) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
-2. 🗣 Commented on [#18](https://github.com/DreamsOfImran/TimesOfInternet/issues/18) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
-3. ❗️ Opened issue [#404](https://github.com/mojombo/chronic/issues/404) in [mojombo/chronic](https://github.com/mojombo/chronic)
-4. 🎉 Merged PR [#19](https://github.com/DreamsOfImran/TimesOfInternet/pull/19) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
-5. 💪 Opened PR [#19](https://github.com/DreamsOfImran/TimesOfInternet/pull/19) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
+1. 🎉 Merged PR [#7](https://github.com/DreamsOfImran/melodic-monk/pull/7) in [DreamsOfImran/melodic-monk](https://github.com/DreamsOfImran/melodic-monk)
+2. 🎉 Merged PR [#41](https://github.com/DreamsOfImran/dreamsofimran.in/pull/41) in [DreamsOfImran/dreamsofimran.in](https://github.com/DreamsOfImran/dreamsofimran.in)
+3. 🗣 Commented on [#20](https://github.com/DreamsOfImran/TimesOfInternet/issues/20) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
+4. 🗣 Commented on [#18](https://github.com/DreamsOfImran/TimesOfInternet/issues/18) in [DreamsOfImran/TimesOfInternet](https://github.com/DreamsOfImran/TimesOfInternet)
+5. ❗️ Opened issue [#404](https://github.com/mojombo/chronic/issues/404) in [mojombo/chronic](https://github.com/mojombo/chronic)
 <!--END_SECTION:activity-->
 
 </details>
