@@ -64,11 +64,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/DreamsOfImran/dreamchat-backend/pull/2) in [DreamsOfImran/dreamchat-backend](https://github.com/DreamsOfImran/dreamchat-backend)
-2. 🎉 Merged PR [#42](https://github.com/DreamsOfImran/dreamsofimran.in/pull/42) in [DreamsOfImran/dreamsofimran.in](https://github.com/DreamsOfImran/dreamsofimran.in)
-3. 🎉 Merged PR [#6](https://github.com/DreamsOfImran/vue-insta-carousel-3d/pull/6) in [DreamsOfImran/vue-insta-carousel-3d](https://github.com/DreamsOfImran/vue-insta-carousel-3d)
-4. 🎉 Merged PR [#5](https://github.com/DreamsOfImran/github-card-app/pull/5) in [DreamsOfImran/github-card-app](https://github.com/DreamsOfImran/github-card-app)
-5. 🎉 Merged PR [#5](https://github.com/DreamsOfImran/dreamlibrary-frontend/pull/5) in [DreamsOfImran/dreamlibrary-frontend](https://github.com/DreamsOfImran/dreamlibrary-frontend)
+1. 🎉 Merged PR [#5](https://github.com/DreamsOfImran/dream-library/pull/5) in [DreamsOfImran/dream-library](https://github.com/DreamsOfImran/dream-library)
+2. 🎉 Merged PR [#2](https://github.com/DreamsOfImran/dreamchat-backend/pull/2) in [DreamsOfImran/dreamchat-backend](https://github.com/DreamsOfImran/dreamchat-backend)
+3. 🎉 Merged PR [#42](https://github.com/DreamsOfImran/dreamsofimran.in/pull/42) in [DreamsOfImran/dreamsofimran.in](https://github.com/DreamsOfImran/dreamsofimran.in)
+4. 🎉 Merged PR [#6](https://github.com/DreamsOfImran/vue-insta-carousel-3d/pull/6) in [DreamsOfImran/vue-insta-carousel-3d](https://github.com/DreamsOfImran/vue-insta-carousel-3d)
+5. 🎉 Merged PR [#5](https://github.com/DreamsOfImran/github-card-app/pull/5) in [DreamsOfImran/github-card-app](https://github.com/DreamsOfImran/github-card-app)
 <!--END_SECTION:activity-->
 
 </details>
