@@ -64,11 +64,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/DreamsOfImran/github-card-app/pull/7) in [DreamsOfImran/github-card-app](https://github.com/DreamsOfImran/github-card-app)
-2. 🎉 Merged PR [#6](https://github.com/DreamsOfImran/advice-project/pull/6) in [DreamsOfImran/advice-project](https://github.com/DreamsOfImran/advice-project)
-3. 🎉 Merged PR [#6](https://github.com/DreamsOfImran/DreamTube/pull/6) in [DreamsOfImran/DreamTube](https://github.com/DreamsOfImran/DreamTube)
-4. 🎉 Merged PR [#5](https://github.com/DreamsOfImran/dreamchat/pull/5) in [DreamsOfImran/dreamchat](https://github.com/DreamsOfImran/dreamchat)
-5. 🎉 Merged PR [#14](https://github.com/DreamsOfImran/covid-global/pull/14) in [DreamsOfImran/covid-global](https://github.com/DreamsOfImran/covid-global)
+1. 🎉 Merged PR [#8](https://github.com/DreamsOfImran/github-card-app/pull/8) in [DreamsOfImran/github-card-app](https://github.com/DreamsOfImran/github-card-app)
+2. 🎉 Merged PR [#4](https://github.com/DreamsOfImran/Learnings/pull/4) in [DreamsOfImran/Learnings](https://github.com/DreamsOfImran/Learnings)
+3. 🎉 Merged PR [#8](https://github.com/DreamsOfImran/vue-insta-carousel-3d/pull/8) in [DreamsOfImran/vue-insta-carousel-3d](https://github.com/DreamsOfImran/vue-insta-carousel-3d)
+4. 🎉 Merged PR [#7](https://github.com/DreamsOfImran/github-card-app/pull/7) in [DreamsOfImran/github-card-app](https://github.com/DreamsOfImran/github-card-app)
+5. 🎉 Merged PR [#6](https://github.com/DreamsOfImran/advice-project/pull/6) in [DreamsOfImran/advice-project](https://github.com/DreamsOfImran/advice-project)
 <!--END_SECTION:activity-->
 
 </details>
