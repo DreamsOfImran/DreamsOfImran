@@ -64,11 +64,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/DreamsOfImran/melodic-monk/pull/13) in [DreamsOfImran/melodic-monk](https://github.com/DreamsOfImran/melodic-monk)
-2. 🎉 Merged PR [#12](https://github.com/DreamsOfImran/vue-insta-carousel-3d/pull/12) in [DreamsOfImran/vue-insta-carousel-3d](https://github.com/DreamsOfImran/vue-insta-carousel-3d)
-3. 🎉 Merged PR [#48](https://github.com/DreamsOfImran/dreamsofimran.in/pull/48) in [DreamsOfImran/dreamsofimran.in](https://github.com/DreamsOfImran/dreamsofimran.in)
-4. 🎉 Merged PR [#6](https://github.com/DreamsOfImran/Learnings/pull/6) in [DreamsOfImran/Learnings](https://github.com/DreamsOfImran/Learnings)
-5. 🎉 Merged PR [#7](https://github.com/DreamsOfImran/kinesis.fit/pull/7) in [DreamsOfImran/kinesis.fit](https://github.com/DreamsOfImran/kinesis.fit)
+1. 🎉 Merged PR [#12](https://github.com/DreamsOfImran/DreamTube/pull/12) in [DreamsOfImran/DreamTube](https://github.com/DreamsOfImran/DreamTube)
+2. 🎉 Merged PR [#11](https://github.com/DreamsOfImran/star-match/pull/11) in [DreamsOfImran/star-match](https://github.com/DreamsOfImran/star-match)
+3. 🎉 Merged PR [#10](https://github.com/DreamsOfImran/tic-tac-toe/pull/10) in [DreamsOfImran/tic-tac-toe](https://github.com/DreamsOfImran/tic-tac-toe)
+4. 🎉 Merged PR [#11](https://github.com/DreamsOfImran/dreamlibrary-frontend/pull/11) in [DreamsOfImran/dreamlibrary-frontend](https://github.com/DreamsOfImran/dreamlibrary-frontend)
+5. 🎉 Merged PR [#11](https://github.com/DreamsOfImran/dreamchat/pull/11) in [DreamsOfImran/dreamchat](https://github.com/DreamsOfImran/dreamchat)
 <!--END_SECTION:activity-->
 
 </details>
