@@ -56,7 +56,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Passwordless Authentication for Web App using WebAuthn](https://medium.com/@DreamsOfImran/passwordless-authentication-for-web-app-using-webauthn-162165692636?source=rss-73fdbc66123c------2)
-- [Learn gRPC and Protobuf with GoLang](https://blog.francium.tech/learn-grpc-and-protobuf-with-golang-8456a2e64977?source=rss-73fdbc66123c------2)
+- [Learn gRPC and Protobuf with GoLang](https://medium.com/@DreamsOfImran/learn-grpc-and-protobuf-with-golang-8456a2e64977?source=rss-73fdbc66123c------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
