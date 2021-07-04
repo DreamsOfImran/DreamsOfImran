@@ -65,11 +65,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/DreamsOfImran/tic-tac-toe/pull/12) in [DreamsOfImran/tic-tac-toe](https://github.com/DreamsOfImran/tic-tac-toe)
-2. 🎉 Merged PR [#12](https://github.com/DreamsOfImran/dreamlibrary-frontend/pull/12) in [DreamsOfImran/dreamlibrary-frontend](https://github.com/DreamsOfImran/dreamlibrary-frontend)
-3. 🎉 Merged PR [#12](https://github.com/DreamsOfImran/dreamchat/pull/12) in [DreamsOfImran/dreamchat](https://github.com/DreamsOfImran/dreamchat)
-4. 🎉 Merged PR [#11](https://github.com/DreamsOfImran/tic-tac-toe/pull/11) in [DreamsOfImran/tic-tac-toe](https://github.com/DreamsOfImran/tic-tac-toe)
-5. 🎉 Merged PR [#12](https://github.com/DreamsOfImran/star-match/pull/12) in [DreamsOfImran/star-match](https://github.com/DreamsOfImran/star-match)
+1. 🎉 Merged PR [#13](https://github.com/DreamsOfImran/dreamlibrary-frontend/pull/13) in [DreamsOfImran/dreamlibrary-frontend](https://github.com/DreamsOfImran/dreamlibrary-frontend)
+2. 🎉 Merged PR [#12](https://github.com/DreamsOfImran/tic-tac-toe/pull/12) in [DreamsOfImran/tic-tac-toe](https://github.com/DreamsOfImran/tic-tac-toe)
+3. 🎉 Merged PR [#12](https://github.com/DreamsOfImran/dreamlibrary-frontend/pull/12) in [DreamsOfImran/dreamlibrary-frontend](https://github.com/DreamsOfImran/dreamlibrary-frontend)
+4. 🎉 Merged PR [#12](https://github.com/DreamsOfImran/dreamchat/pull/12) in [DreamsOfImran/dreamchat](https://github.com/DreamsOfImran/dreamchat)
+5. 🎉 Merged PR [#11](https://github.com/DreamsOfImran/tic-tac-toe/pull/11) in [DreamsOfImran/tic-tac-toe](https://github.com/DreamsOfImran/tic-tac-toe)
 <!--END_SECTION:activity-->
 
 </details>
