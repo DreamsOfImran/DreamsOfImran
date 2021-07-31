@@ -6,7 +6,7 @@
 
 ## FullStack Developer, Geek, Designer, Reader & always a Lifetime Learner!
 
-- 🔭 I’m currently working on a [ZenReminder][zen-website]!
+- 🔭 I’m currently working on a [nDimensional][nd-website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other intereseting projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -82,7 +82,7 @@
 </details>
 
 [website]: https://dreamsofimran.in
-[zen-website]: https://zen.francium.tech
+[nd-website]: https://nd.com
 [medium]: https://medium.com/@DreamsOfImran
 [twitter]: https://twitter.com/DreamsOfImran
 [instagram]: https://instagram.com/dreamsofimran
