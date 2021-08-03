@@ -65,11 +65,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/DreamsOfImran/melodic-monk/pull/14) in [DreamsOfImran/melodic-monk](https://github.com/DreamsOfImran/melodic-monk)
-2. 🎉 Merged PR [#12](https://github.com/DreamsOfImran/github-card-app/pull/12) in [DreamsOfImran/github-card-app](https://github.com/DreamsOfImran/github-card-app)
-3. 🎉 Merged PR [#10](https://github.com/DreamsOfImran/star-match/pull/10) in [DreamsOfImran/star-match](https://github.com/DreamsOfImran/star-match)
-4. 🎉 Merged PR [#9](https://github.com/DreamsOfImran/tic-tac-toe/pull/9) in [DreamsOfImran/tic-tac-toe](https://github.com/DreamsOfImran/tic-tac-toe)
-5. 🎉 Merged PR [#13](https://github.com/DreamsOfImran/DreamTube/pull/13) in [DreamsOfImran/DreamTube](https://github.com/DreamsOfImran/DreamTube)
+1. 🗣 Commented on [#6](https://github.com/DreamsOfImran/covid-global/issues/6) in [DreamsOfImran/covid-global](https://github.com/DreamsOfImran/covid-global)
+2. 🎉 Merged PR [#9](https://github.com/DreamsOfImran/covid-global/pull/9) in [DreamsOfImran/covid-global](https://github.com/DreamsOfImran/covid-global)
+3. 🎉 Merged PR [#14](https://github.com/DreamsOfImran/melodic-monk/pull/14) in [DreamsOfImran/melodic-monk](https://github.com/DreamsOfImran/melodic-monk)
+4. 🎉 Merged PR [#12](https://github.com/DreamsOfImran/github-card-app/pull/12) in [DreamsOfImran/github-card-app](https://github.com/DreamsOfImran/github-card-app)
+5. 🎉 Merged PR [#10](https://github.com/DreamsOfImran/star-match/pull/10) in [DreamsOfImran/star-match](https://github.com/DreamsOfImran/star-match)
 <!--END_SECTION:activity-->
 
 </details>
