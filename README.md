@@ -65,11 +65,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#106](https://github.com/jssam/Hactoberfest2021/pull/106) in [jssam/Hactoberfest2021](https://github.com/jssam/Hactoberfest2021)
-2. 💪 Opened PR [#97](https://github.com/jssam/Hactoberfest2021/pull/97) in [jssam/Hactoberfest2021](https://github.com/jssam/Hactoberfest2021)
-3. 💪 Opened PR [#90](https://github.com/jssam/Hactoberfest2021/pull/90) in [jssam/Hactoberfest2021](https://github.com/jssam/Hactoberfest2021)
-4. 💪 Opened PR [#213](https://github.com/Coder-forfun/Hactoberfest-accepted/pull/213) in [Coder-forfun/Hactoberfest-accepted](https://github.com/Coder-forfun/Hactoberfest-accepted)
-5. 💪 Opened PR [#87](https://github.com/jssam/Hactoberfest2021/pull/87) in [jssam/Hactoberfest2021](https://github.com/jssam/Hactoberfest2021)
+1. 💪 Opened PR [#2](https://github.com/PrathamJha1/Drum-Kit/pull/2) in [PrathamJha1/Drum-Kit](https://github.com/PrathamJha1/Drum-Kit)
+2. 🗣 Commented on [#76](https://github.com/vedangj044/just-calling-random-api/issues/76) in [vedangj044/just-calling-random-api](https://github.com/vedangj044/just-calling-random-api)
+3. 💪 Opened PR [#106](https://github.com/jssam/Hactoberfest2021/pull/106) in [jssam/Hactoberfest2021](https://github.com/jssam/Hactoberfest2021)
+4. 💪 Opened PR [#97](https://github.com/jssam/Hactoberfest2021/pull/97) in [jssam/Hactoberfest2021](https://github.com/jssam/Hactoberfest2021)
+5. 💪 Opened PR [#90](https://github.com/jssam/Hactoberfest2021/pull/90) in [jssam/Hactoberfest2021](https://github.com/jssam/Hactoberfest2021)
 <!--END_SECTION:activity-->
 
 </details>
