@@ -65,11 +65,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Tejaswika/covidtracker/issues/1) in [Tejaswika/covidtracker](https://github.com/Tejaswika/covidtracker)
-2. 💪 Opened PR [#2](https://github.com/shakkeelaraoof/fresh_juice_template/pull/2) in [shakkeelaraoof/fresh_juice_template](https://github.com/shakkeelaraoof/fresh_juice_template)
-3. 💪 Opened PR [#3](https://github.com/spyd3r-byte/Simon_Game/pull/3) in [spyd3r-byte/Simon_Game](https://github.com/spyd3r-byte/Simon_Game)
-4. 💪 Opened PR [#5](https://github.com/Master-YEET/Portfolio-Template/pull/5) in [Master-YEET/Portfolio-Template](https://github.com/Master-YEET/Portfolio-Template)
-5. 🗣 Commented on [#87](https://github.com/vedangj044/just-calling-random-api/issues/87) in [vedangj044/just-calling-random-api](https://github.com/vedangj044/just-calling-random-api)
+1. 💪 Opened PR [#2](https://github.com/krmukesh02016/Color-Guessing-Game/pull/2) in [krmukesh02016/Color-Guessing-Game](https://github.com/krmukesh02016/Color-Guessing-Game)
+2. 🗣 Commented on [#2](https://github.com/Pulkit203/Snake-Game/issues/2) in [Pulkit203/Snake-Game](https://github.com/Pulkit203/Snake-Game)
+3. 🗣 Commented on [#1](https://github.com/Tejaswika/covidtracker/issues/1) in [Tejaswika/covidtracker](https://github.com/Tejaswika/covidtracker)
+4. 💪 Opened PR [#2](https://github.com/shakkeelaraoof/fresh_juice_template/pull/2) in [shakkeelaraoof/fresh_juice_template](https://github.com/shakkeelaraoof/fresh_juice_template)
+5. 💪 Opened PR [#3](https://github.com/spyd3r-byte/Simon_Game/pull/3) in [spyd3r-byte/Simon_Game](https://github.com/spyd3r-byte/Simon_Game)
 <!--END_SECTION:activity-->
 
 </details>
