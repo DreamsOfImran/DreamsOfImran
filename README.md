@@ -65,11 +65,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#87](https://github.com/vedangj044/just-calling-random-api/issues/87) in [vedangj044/just-calling-random-api](https://github.com/vedangj044/just-calling-random-api)
-2. 💪 Opened PR [#87](https://github.com/vedangj044/just-calling-random-api/pull/87) in [vedangj044/just-calling-random-api](https://github.com/vedangj044/just-calling-random-api)
-3. 💪 Opened PR [#2](https://github.com/PrathamJha1/Drum-Kit/pull/2) in [PrathamJha1/Drum-Kit](https://github.com/PrathamJha1/Drum-Kit)
-4. 🗣 Commented on [#76](https://github.com/vedangj044/just-calling-random-api/issues/76) in [vedangj044/just-calling-random-api](https://github.com/vedangj044/just-calling-random-api)
-5. 💪 Opened PR [#106](https://github.com/jssam/Hactoberfest2021/pull/106) in [jssam/Hactoberfest2021](https://github.com/jssam/Hactoberfest2021)
+1. 🗣 Commented on [#1](https://github.com/Tejaswika/covidtracker/issues/1) in [Tejaswika/covidtracker](https://github.com/Tejaswika/covidtracker)
+2. 💪 Opened PR [#2](https://github.com/shakkeelaraoof/fresh_juice_template/pull/2) in [shakkeelaraoof/fresh_juice_template](https://github.com/shakkeelaraoof/fresh_juice_template)
+3. 💪 Opened PR [#3](https://github.com/spyd3r-byte/Simon_Game/pull/3) in [spyd3r-byte/Simon_Game](https://github.com/spyd3r-byte/Simon_Game)
+4. 💪 Opened PR [#5](https://github.com/Master-YEET/Portfolio-Template/pull/5) in [Master-YEET/Portfolio-Template](https://github.com/Master-YEET/Portfolio-Template)
+5. 🗣 Commented on [#87](https://github.com/vedangj044/just-calling-random-api/issues/87) in [vedangj044/just-calling-random-api](https://github.com/vedangj044/just-calling-random-api)
 <!--END_SECTION:activity-->
 
 </details>
