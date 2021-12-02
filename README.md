@@ -65,11 +65,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/GDSC-RTU/quotes-api/pull/31) in [GDSC-RTU/quotes-api](https://github.com/GDSC-RTU/quotes-api)
-2. 💪 Opened PR [#2](https://github.com/krmukesh02016/Color-Guessing-Game/pull/2) in [krmukesh02016/Color-Guessing-Game](https://github.com/krmukesh02016/Color-Guessing-Game)
-3. 🗣 Commented on [#2](https://github.com/Pulkit203/Snake-Game/issues/2) in [Pulkit203/Snake-Game](https://github.com/Pulkit203/Snake-Game)
-4. 🗣 Commented on [#1](https://github.com/Tejaswika/covidtracker/issues/1) in [Tejaswika/covidtracker](https://github.com/Tejaswika/covidtracker)
-5. 💪 Opened PR [#2](https://github.com/shakkeelaraoof/fresh_juice_template/pull/2) in [shakkeelaraoof/fresh_juice_template](https://github.com/shakkeelaraoof/fresh_juice_template)
+1. 🎉 Merged PR [#54](https://github.com/DreamsOfImran/dreamsofimran.in/pull/54) in [DreamsOfImran/dreamsofimran.in](https://github.com/DreamsOfImran/dreamsofimran.in)
+2. 💪 Opened PR [#31](https://github.com/GDSC-RTU/quotes-api/pull/31) in [GDSC-RTU/quotes-api](https://github.com/GDSC-RTU/quotes-api)
+3. 💪 Opened PR [#2](https://github.com/krmukesh02016/Color-Guessing-Game/pull/2) in [krmukesh02016/Color-Guessing-Game](https://github.com/krmukesh02016/Color-Guessing-Game)
+4. 🗣 Commented on [#2](https://github.com/Pulkit203/Snake-Game/issues/2) in [Pulkit203/Snake-Game](https://github.com/Pulkit203/Snake-Game)
+5. 🗣 Commented on [#1](https://github.com/Tejaswika/covidtracker/issues/1) in [Tejaswika/covidtracker](https://github.com/Tejaswika/covidtracker)
 <!--END_SECTION:activity-->
 
 </details>
