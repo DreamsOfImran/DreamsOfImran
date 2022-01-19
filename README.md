@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on a [nDimensional][nd-website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other intereseting projects
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
 
 ### Spotify Playing 🎧
