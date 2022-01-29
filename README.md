@@ -65,11 +65,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com/DreamsOfImran/dreamsofimran.in/issues/55) in [DreamsOfImran/dreamsofimran.in](https://github.com/DreamsOfImran/dreamsofimran.in)
-2. 🎉 Merged PR [#16](https://github.com/DreamsOfImran/tic-tac-toe/pull/16) in [DreamsOfImran/tic-tac-toe](https://github.com/DreamsOfImran/tic-tac-toe)
-3. 🎉 Merged PR [#18](https://github.com/DreamsOfImran/dreamlibrary-frontend/pull/18) in [DreamsOfImran/dreamlibrary-frontend](https://github.com/DreamsOfImran/dreamlibrary-frontend)
-4. 🎉 Merged PR [#27](https://github.com/DreamsOfImran/covid-global/pull/27) in [DreamsOfImran/covid-global](https://github.com/DreamsOfImran/covid-global)
-5. 🎉 Merged PR [#18](https://github.com/DreamsOfImran/dreamchat/pull/18) in [DreamsOfImran/dreamchat](https://github.com/DreamsOfImran/dreamchat)
+1. 🎉 Merged PR [#57](https://github.com/DreamsOfImran/dreamsofimran.in/pull/57) in [DreamsOfImran/dreamsofimran.in](https://github.com/DreamsOfImran/dreamsofimran.in)
+2. 🗣 Commented on [#55](https://github.com/DreamsOfImran/dreamsofimran.in/issues/55) in [DreamsOfImran/dreamsofimran.in](https://github.com/DreamsOfImran/dreamsofimran.in)
+3. 🎉 Merged PR [#16](https://github.com/DreamsOfImran/tic-tac-toe/pull/16) in [DreamsOfImran/tic-tac-toe](https://github.com/DreamsOfImran/tic-tac-toe)
+4. 🎉 Merged PR [#18](https://github.com/DreamsOfImran/dreamlibrary-frontend/pull/18) in [DreamsOfImran/dreamlibrary-frontend](https://github.com/DreamsOfImran/dreamlibrary-frontend)
+5. 🎉 Merged PR [#27](https://github.com/DreamsOfImran/covid-global/pull/27) in [DreamsOfImran/covid-global](https://github.com/DreamsOfImran/covid-global)
 <!--END_SECTION:activity-->
 
 </details>
