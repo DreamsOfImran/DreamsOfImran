@@ -48,9 +48,8 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 
 <br />
-<br />
 
----
+### Holopin Badges:
 
 [![An image of @dreamsofimran's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dreamsofimran)](https://holopin.io/@dreamsofimran)
 
