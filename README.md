@@ -52,6 +52,10 @@
 
 ---
 
+[![An image of @dreamsofimran's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dreamsofimran)](https://holopin.io/@dreamsofimran)
+
+---
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
