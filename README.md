@@ -6,10 +6,10 @@
 
 ## DevOps Engineer, FullStack Developer, Designer, Reader & always a Lifetime Learner!
 
-- 🔭 I’m currently working on a [nDimensional][nd-website]!
+- 🔭 I’m currently working on [EzyInfra.Dev][ezyinfra-website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other intereseting projects
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
 
 ### Spotify Playing 🎧
@@ -85,6 +85,7 @@
 </details>
 
 [website]: https://dreamsofimran.in
+[ezyinfra-website]: https://ezyinfra.dev
 [nd-website]: https://nd.com
 [medium]: https://medium.com/@DreamsOfImran
 [twitter]: https://twitter.com/DreamsOfImran
