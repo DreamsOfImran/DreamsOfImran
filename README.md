@@ -6,7 +6,7 @@
 
 ## DevOps Engineer, FullStack Developer, Designer, Reader & always a Lifetime Learner!
 
-- 🔭 I’m currently working on [EzyInfra.Dev][ezyinfra-website]!
+- 🔭 I’m currently working at [EzyInfra.Dev][ezyinfra-website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other intereseting projects
 - 🥅 2025 Goals: Contribute more to Open Source projects
